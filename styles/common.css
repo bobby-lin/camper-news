@@ -1,0 +1,28 @@
+body {
+    background-color: antiquewhite;
+}
+
+li {
+    margin: 10px;
+}
+
+p {
+    line-height: 80%;
+}
+
+.panel-list {
+    width: 1000px;
+    background-color: white;
+    padding: 50px 20px 20px 20px;
+}
+
+.image {
+    vertical-align:middle;
+}
+
+.item-text {
+    display:inline-block;
+    vertical-align:middle;
+    line-height:200%;
+    padding-left:20px;
+}
