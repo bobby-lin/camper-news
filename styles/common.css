@@ -10,6 +10,15 @@ p {
     line-height: 80%;
 }
 
+ul {
+    list-style-type: none;
+}
+
+a.navigate-list {
+    margin:20px;
+    color:black;
+}
+
 .panel-list {
     width: 1000px;
     background-color: white;
@@ -25,4 +34,8 @@ p {
     vertical-align:middle;
     line-height:200%;
     padding-left:20px;
+}
+
+a.item-text {
+    color: #3A539B;
 }
